@@ -6,6 +6,6 @@ I started loving Computer Science when I took html classes on high school and I 
 
 Now I look forward to graduate at University of Illinois Chicago where I learned different programming languages such as C, C++.
 
-My best programming languages are C, C++, Java
+My best programming languages are C, C++, Java.
 
 
